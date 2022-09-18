@@ -1,0 +1,9 @@
+AWS is the simplest way to monitor your AWS spend and be alerted when you exceed or are forecasted to exceed your desired spending limit.
+STEPS
+Go to Budgets
+Click on create Budget
+Select cost budget and click Next
+Enter your budget name, period (whether it's monthly), budgeted amount and click on next
+Configure alerts then click Next
+Attach Actions (optional) click on Next
+Review and click create
