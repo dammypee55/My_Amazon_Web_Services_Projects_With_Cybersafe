@@ -1,5 +1,5 @@
 AWS is the simplest way to monitor your AWS spend and be alerted when you exceed or are forecasted to exceed your desired spending limit.
-STEPS
+STEPS TO CREATE AWS BUDGET
 Go to Budgets
 Click on create Budget
 Select cost budget and click Next
